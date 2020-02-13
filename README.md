@@ -3,3 +3,4 @@
 Work to do :
 * Add animation
 * Add logo
+* Change username 
